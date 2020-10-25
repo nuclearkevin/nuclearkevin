@@ -9,7 +9,7 @@ I'm Kevin Sawatzky, 4th year nuclear engineering student in the [FESNS](https://
 
 - FinDPyNe: **Fin**ite **D**ifference **Py**thon **Ne**tronics. A python program designed to solve the transient and steady-state 2-group neutron diffusion equation as an alternative to DRAGON for undergraduate students in nuclear engineering. Currently a work in progress. [Closed source, for now]
 
-- Neutron activation toolkit: An unnamed MOOSE-based toolkit for computing activation product concentrations in structural components of nuclear reactors. [Closed source, for now]
+- Neutron activation toolkit: An unnamed MOOSE-based application for computing activation product concentrations in structural components of nuclear reactors. Aims to couple multi-group neutron diffusion with neutron activation. [Closed source, for now]
 
 <!--
 **ksawatzky777/ksawatzky777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
