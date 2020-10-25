@@ -5,9 +5,9 @@ I'm Kevin Sawatzky, 4th year nuclear engineering student in the [FESNS](https://
 
 ### Current Projects:
 
-- [CARIBOU](https://github.com/ksawatzky777/caribou): A multiphysics transport code for the environmental assessment of nuclear accidents. I occasionally still contribute to CARIBOU's developement, although the project has been passed on to others. [Open source]
+- [CARIBOU](https://github.com/ksawatzky777/caribou): A multiphysics transport code for the environmental assessment of nuclear accidents. Initial developement of CARIBOU was funded by NSERC and supervised by [Dr. Kirk Atkinson](https://nuclear.ontariotechu.ca/people/faculty/dr-kirk-atkinson.php). I occasionally still contribute to CARIBOU's developement, although the project has been passed on to others. [Open source]
 
-- FinDPyNe: **Fin**ite **D**ifference **Py**thon **Ne**tronics. A python program designed to solve the transient and steady-state 2-group neutron diffusion equation as an alternative (more user friendly) to DRAGON. Currently a work in progress. [Closed source, for now]
+- FinDPyNe: **Fin**ite **D**ifference **Py**thon **Ne**tronics. A python program designed to solve the transient and steady-state 2-group neutron diffusion equation as an alternative to DRAGON for undergraduate students in nuclear engineering. Currently a work in progress. [Closed source, for now]
 
 - Neutron activation toolkit: An unnamed MOOSE-based toolkit for computing activation product concentrations in structural components of nuclear reactors. [Closed source, for now]
 
