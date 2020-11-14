@@ -1,7 +1,7 @@
 ## Howdy! 👋
 
 ### About me:
-Hi, I'm Kevin, a 4th year nuclear engineering student in the [FESNS](https://nuclear.ontariotechu.ca/index.php) at the [Ontario Tech University](https://ontariotechu.ca/). I'm passionate about reactor physics, fluid mechanics and computational sciences (especially the finite element method). When I'm not studying, I'm working on various projects!
+Hi, I'm Kevin, a 4th year nuclear engineering student in the [FESNS](https://nuclear.ontariotechu.ca/index.php) at the [Ontario Tech University](https://ontariotechu.ca/). I'm passionate about reactor physics, fluid mechanics and computational sciences (especially discretization schemes for solving partial differential equations). When I'm not studying, I'm working on various projects!
 
 ### Current Projects:
 
