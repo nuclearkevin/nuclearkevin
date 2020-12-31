@@ -15,7 +15,7 @@ Hi, I'm Kevin, a 4th year nuclear engineering student (minoring in computational
 
 - Neutron activation toolkit: An unnamed MOOSE-based application for computing activation product concentrations in structural components of nuclear reactors. Aims to couple multi-group neutron diffusion with neutron activation. Currently a work in progress.
 
-- Californium: A Discord bot to solve simple problems in physics problems. Built to learn Discord.py, currently a work in progress.
+- Californium: A Discord bot to solve simple problems in reactor physics. Built to learn Discord.py, currently a work in progress.
 
 ### Past Projects
 
