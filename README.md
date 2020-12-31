@@ -19,7 +19,7 @@ Hi, I'm Kevin, a 4th year nuclear engineering student (minoring in computational
 
 ### Past Projects
 
-- [CARIBOU](https://github.com/ksawatzky777/caribou): A multiphysics transport code for the environmental assessment of nuclear accidents. My contribution to CARIBOU was the weather data formatting scheme, the atmospheric transport model and coupling the transport model to global climate data.
+- [CARIBOU](https://github.com/ksawatzky777/caribou): A multiphysics transport code for the environmental assessment of nuclear accidents. My contributions to CARIBOU were the weather data formatting scheme, the atmospheric transport model and coupling of the transport model to global climate data.
 
 <!--
 **ksawatzky777/ksawatzky777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
