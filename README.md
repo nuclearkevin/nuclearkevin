@@ -6,7 +6,7 @@ Hi, I'm Kevin, a 4th year nuclear engineering student (minoring in computational
 #### Prefered Languages:
 <img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=flat-square&logo=python&logoColor=yellow"> <img src="https://img.shields.io/badge/Matlab-white.svg?&style=flat-square&logo=Mathworks&logoColor=orange"> <img src="https://img.shields.io/badge/C++-%2300599C.svg?&style=flat-square&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Java-white.svg?&style=flat-square&logo=java&logoColor=orange"> 
 
-#### Developement Environments
+#### Developement Environments:
 <img src="https://img.shields.io/badge/Atom-66595C.svg?&style=flat-square&logo=atom&logoColor=white"> <img src="https://img.shields.io/badge/IDEA-purple.svg?&style=flat-square&logo=intellij-idea&logoColor=white"> <img src="https://img.shields.io/badge/PyCharm-1bd88b.svg?&style=flat-square&logo=pycharm&logoColor=white">
 
 ### Current Projects:
