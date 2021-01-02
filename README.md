@@ -13,13 +13,13 @@ Hi, I'm Kevin, a 4th year nuclear engineering student (minoring in computational
 
 - [FinDPyNe](https://github.com/ksawatzky777/FinDPyNE): **Fin**ite **D**ifference **Py**thon **Ne**tronics. A C++ program with python bindings designed to solve the transient and steady-state n-group neutron diffusion equation. It is intended to function an alternative to DRAGON for undergraduate students in nuclear engineering, incorperating a rudimentary GUI to make it more approachable and user-friendly. Currently a work in progress.
 
-- Neutron activation toolkit: An unnamed MOOSE-based application for computing activation product concentrations in structural components of nuclear reactors. Aims to couple multi-group neutron diffusion with neutron activation. Currently a work in progress.
+- Gnat: **G**eneric **n**eutron **a**ctivation **t**oolkit, which aims to implement neutron activation in a manner which can be easily coupled to neutron transport solvers through the MOOSE finite element framework. Gnat also aims to implement n-group neutron diffusion as a baseline. Gnat is currently a work in progress.
 
-- Californium: A Discord bot to solve simple problems in reactor physics. Built to learn Discord.py, currently a work in progress.
+- [Californium](https://github.com/ksawatzky777/Californium): A Discord bot to solve simple problems in reactor physics. Built to learn Discord.py, currently a work in progress.
 
 ### Past Projects
 
-- [CARIBOU](https://github.com/ksawatzky777/caribou): A multiphysics transport code for the environmental assessment of nuclear accidents. My contributions to CARIBOU were the weather data formatting scheme, the atmospheric transport model and coupling of the transport model to global climate data.
+- [CARIBOU](https://github.com/ksawatzky777/caribou): A multiphysics transport code for the environmental assessment of nuclear accidents. My contributions to CARIBOU are the beginnings of the atmospheric transport scheme, weather data formatting scripts and coupling of the trasport scheme to global climate data.
 
 <!--
 **ksawatzky777/ksawatzky777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
