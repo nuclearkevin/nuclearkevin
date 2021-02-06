@@ -11,7 +11,7 @@ Hi, I'm Kevin, a 4th year nuclear engineering student (minoring in computational
 
 ### Current Projects
 
-- [FinDPyNe](https://github.com/ksawatzky777/FinDPyNE): **Fin**ite **D**ifference **Py**thon **Ne**tronics. A C++ program with python bindings designed to solve the transient and steady-state n-group neutron diffusion equation. It is intended to function an alternative to DRAGON for undergraduate students in nuclear engineering, incorperating a rudimentary GUI to make it more approachable and user-friendly. Currently a work in progress.
+- [FinDPyNe](https://github.com/ksawatzky777/FinDPyNE): **Fin**ite **D**ifference **Py**thon **Ne**utronics. A C++ program with python bindings designed to solve the transient and steady-state n-group neutron diffusion equation. It is intended to function an alternative to DRAGON for undergraduate students in nuclear engineering, incorperating a rudimentary GUI to make it more approachable and user-friendly. Currently a work in progress.
 
 - Gnat: **G**eneric **n**eutron **a**ctivation **t**oolkit, which aims to implement neutron activation in a manner which can be easily coupled to neutron transport solvers through the MOOSE finite element framework. Gnat also aims to implement n-group neutron diffusion as a baseline. Currently a work in progress.
 
