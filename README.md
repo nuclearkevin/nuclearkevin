@@ -21,6 +21,9 @@ Hi, I'm Kevin, a 4th year nuclear engineering student (minoring in computational
 
 - [CARIBOU](https://github.com/ksawatzky777/caribou): A multiphysics transport code for the environmental assessment of nuclear accidents. My contributions to CARIBOU are the beginnings of the atmospheric transport scheme, weather data formatting scripts and coupling of the transport scheme to global climate data.
 
+![](https://komarev.com/ghpvc/?username=ksawatzky777)
+
+
 <!--
 **ksawatzky777/ksawatzky777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
