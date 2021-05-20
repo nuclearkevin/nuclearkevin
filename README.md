@@ -1,28 +1,31 @@
-## Howdy! 👋
+<h1 align="center">Howdy! <img src="https://cdn.discordapp.com/attachments/384488503158767627/844952233745186826/Hi.gif" width="30px"> I'm Kevin</h1>
 
 ### About me:
-Hi, I'm Kevin, a 4th year nuclear engineering student (minoring in computational science) in the [FESNS](https://nuclear.ontariotechu.ca/index.php) at the [Ontario Tech University](https://ontariotechu.ca/). I'm passionate about reactor physics, fluid mechanics and computational sciences (especially discretization schemes for solving partial differential equations). When I'm not studying, I'm working on various projects!
+🎓 5th year nuclear engineering student at the [Ontario Tech University](https://ontariotechu.ca/) (formerly known as UOIT), where I've perform undergraduate research in engineering methods development and small modular reactor I&C.
 
-#### Prefered Languages
-<img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=flat-square&logo=python&logoColor=yellow"> <img src="https://img.shields.io/badge/Matlab-white.svg?&style=flat-square&logo=Mathworks&logoColor=orange"> <img src="https://img.shields.io/badge/C++-%2300599C.svg?&style=flat-square&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Java-white.svg?&style=flat-square&logo=java&logoColor=orange"> 
+💡 I bounce between various projects, including a graphics engine written in OpenGL and my own neutron transport solver (in the MOOSE Finite Element Framework).
 
-#### Developement Environments
-<img src="https://img.shields.io/badge/Atom-66595C.svg?&style=flat-square&logo=atom&logoColor=white"> <img src="https://img.shields.io/badge/IDEA-purple.svg?&style=flat-square&logo=intellij-idea&logoColor=white"> <img src="https://img.shields.io/badge/PyCharm-1bd88b.svg?&style=flat-square&logo=pycharm&logoColor=white">
+🌱 I'm currently learning graphics programming in OpenGL and Vulkan, alongside the finite element and finite volume methods.
 
-### Current Projects
+🔭 I'm passionate about a lot of subjects in and out of the nuclear engineering domain, feel free to ask me about my projects! (be warned, I'll probably talk your ear off)
 
-- [FinDPyNe](https://github.com/ksawatzky777/FinDPyNE): **Fin**ite **D**ifference **Py**thon **Ne**utronics. A C++ program with python bindings designed to solve the transient and steady-state n-group neutron diffusion equation. It is intended to function an alternative to DRAGON for undergraduate students in nuclear engineering, incorperating a rudimentary GUI to make it more approachable and user-friendly. Currently a work in progress.
+### ✍️ Tools of the trade
+<img src="https://img.shields.io/badge/Python-white.svg?&style=flat-square&logo=python&logoColor=3776AB"> <img src="https://img.shields.io/badge/Matlab-white.svg?&style=flat-square&logo=Mathworks&logoColor=orange"> <img src="https://img.shields.io/badge/C++-white.svg?&style=flat-square&logo=c%2B%2B&logoColor=00599C"> <img src="https://img.shields.io/badge/Java-white.svg?&style=flat-square&logo=java&logoColor=orange"> <img src="https://img.shields.io/badge/Fortran-white.svg?&style=flat-square&logo=fortran&logoColor=purple"> <img src="https://img.shields.io/badge/OpenGL-white.svg?&style=flat-square&logo=opengl&logoColor=orange"> <img src="https://img.shields.io/badge/Vulkan-white.svg?&style=flat-square&logo=vulkan&logoColor=red">
 
-- Gnat: **G**eneric **n**eutron **a**ctivation **t**oolkit, which aims to implement neutron activation in a manner which can be easily coupled to neutron transport solvers through the MOOSE finite element framework. Gnat also aims to implement n-group neutron diffusion as a baseline. Currently a work in progress.
+<img src="https://img.shields.io/badge/Atom-white.svg?&style=flat-square&logo=atom&logoColor=66595C"> <img src="https://img.shields.io/badge/IDEA-white.svg?&style=flat-square&logo=intellij-idea&logoColor=purple"> <img src="https://img.shields.io/badge/PyCharm-white.svg?&style=flat-square&logo=pycharm&logoColor=1bd88b">
+ <img src="https://img.shields.io/badge/CLion-white.svg?&style=flat-square&logo=clion&logoColor=black"> <img src="https://img.shields.io/badge/Visual_Studio-white.svg?&style=flat-square&logo=visual-studio&logoColor=5C2D91">
+ 
+<img src="https://img.shields.io/badge/Windows_10-white.svg?&style=flat-square&logo=windows&logoColor=0078D6"> <img src="https://img.shields.io/badge/Linux-white.svg?&style=flat-square&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/Ubuntu-white.svg?&style=flat-square&logo=ubuntu&logoColor=E95420"> 
+ 
+### 🔭 Projects
+- FinDPyNe: **Fin**ite **D**ifference **Py**thon **Ne**utronics. A C++ program with python bindings designed to solve the transient and steady-state n-group neutron diffusion equation. Currently a work in progress.
+- Gnat: **G**eneric **n**eutron **a**ctivation **t**oolkit, which aims to implement neutron activation in a manner which can be easily coupled to neutron transport solvers through the MOOSE finite element framework. Currently a work in progress.
+- Californium: A Discord bot to solve simple problems in reactor physics. Currently a work in progress.
+- [SciRender](https://github.com/ksawatzky777/SciRender): My own OpenGL rendering engine and graphics framework. 
+- [CARIBOU](https://github.com/ksawatzky777/caribou): A multiphysics transport code for the environmental assessment of nuclear accidents. My contributions to CARIBOU are the beginnings of the atmospheric transport scheme, weather data formatting scripts and coupling of the transport scheme to global climate data. 
 
-- [Californium](https://github.com/ksawatzky777/Californium): A Discord bot to solve simple problems in reactor physics. Currently a work in progress.
-
-### Past Projects
-
-- [CARIBOU](https://github.com/ksawatzky777/caribou): A multiphysics transport code for the environmental assessment of nuclear accidents. My contributions to CARIBOU are the beginnings of the atmospheric transport scheme, weather data formatting scripts and coupling of the transport scheme to global climate data.
-
-![](https://komarev.com/ghpvc/?username=ksawatzky777)
-
+![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=ksawatzky777&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)\
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ksawatzky777&layout=compact&langs_count=8&theme=algolia)
 
 <!--
 **ksawatzky777/ksawatzky777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
