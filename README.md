@@ -21,7 +21,7 @@
 - FinDPyNe: **Fin**ite **D**ifference **Py**thon **Ne**utronics. A C++ program with python bindings designed to solve the transient and steady-state n-group neutron diffusion equation. Currently a work in progress.
 - Gnat: **G**eneric **n**eutron **a**ctivation **t**oolkit, which aims to implement neutron activation in a manner which can be easily coupled to neutron transport solvers through the MOOSE finite element framework. Currently a work in progress.
 - Californium: A Discord bot to solve simple problems in reactor physics. Currently a work in progress.
-- [SciRender](https://github.com/ksawatzky777/SciRender): My own OpenGL rendering engine and graphics framework. 
+- [Strontium](https://github.com/ksawatzky777/Strontium): My own OpenGL graphics/game engine. 
 - [CARIBOU](https://github.com/ksawatzky777/caribou): A multiphysics transport code for the environmental assessment of nuclear accidents. My contributions to CARIBOU are the beginnings of the atmospheric transport scheme, weather data formatting scripts and coupling of the transport scheme to global climate data. 
 
 ![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=ksawatzky777&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)\
