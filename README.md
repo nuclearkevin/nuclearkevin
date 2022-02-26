@@ -24,8 +24,8 @@
 - [Strontium](https://github.com/ksawatzky777/Strontium): My own OpenGL graphics/game engine. 
 - [CARIBOU](https://github.com/ksawatzky777/caribou): A multiphysics transport code for the environmental assessment of nuclear accidents. My contributions to CARIBOU are the beginnings of the atmospheric transport scheme, weather data formatting scripts and coupling of the transport scheme to global climate data. 
 
-![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=ksawatzky777&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)\
-![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ksawatzky777&layout=compact&langs_count=8&theme=algolia)
+![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=nuclearkevin&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)\
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nuclearkevin&layout=compact&langs_count=8&theme=algolia)
 
 <!--
 **ksawatzky777/ksawatzky777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
