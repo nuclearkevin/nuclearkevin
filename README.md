@@ -1,9 +1,9 @@
 <h1 align="center">Howdy! <img src="https://cdn.discordapp.com/attachments/384488503158767627/844952233745186826/Hi.gif" width="30px"> I'm Kevin</h1>
 
 ### About me:
-🎓 5th year nuclear engineering student at the [Ontario Tech University](https://ontariotechu.ca/) (formerly known as UOIT), where I've perform undergraduate research in engineering methods development and small modular reactor I&C.
+🎓 MASc student at the [Ontario Tech University](https://ontariotechu.ca/) (formerly known as UOIT). My academic and research interests are computational radiation transport and methods development in nuclear engineering.
 
-💡 I bounce between various projects, including a graphics engine written in OpenGL and my own neutron transport solver (in the MOOSE Finite Element Framework).
+💡 I bounce between various projects, including a graphics engine written in OpenGL and my masters research (a neutron transport solver in the MOOSE Finite Element Framework).
 
 🌱 I'm currently learning graphics programming in OpenGL and Vulkan, alongside the finite element and finite volume methods.
 
@@ -19,10 +19,9 @@
  
 ### 🔭 Projects
 - FinDPyNe: **Fin**ite **D**ifference **Py**thon **Ne**utronics. A C++ program with python bindings designed to solve the transient and steady-state n-group neutron diffusion equation. Currently a work in progress.
-- Gnat: **G**eneric **n**eutron **a**ctivation **t**oolkit, which aims to implement neutron activation in a manner which can be easily coupled to neutron transport solvers through the MOOSE finite element framework. Currently a work in progress.
 - Californium: A Discord bot to solve simple problems in reactor physics. Currently a work in progress.
 - [Strontium](https://github.com/ksawatzky777/Strontium): My own OpenGL graphics/game engine. 
-- [CARIBOU](https://github.com/ksawatzky777/caribou): A multiphysics transport code for the environmental assessment of nuclear accidents. My contributions to CARIBOU are the beginnings of the atmospheric transport scheme, weather data formatting scripts and coupling of the transport scheme to global climate data. 
+- CARIBOU: A multiphysics transport code for the environmental assessment of nuclear accidents. My contributions to CARIBOU are the beginnings of the atmospheric transport scheme, weather data formatting scripts and coupling of the transport scheme to global climate data. 
 
 ![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=nuclearkevin&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)\
 ![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nuclearkevin&layout=compact&langs_count=8&theme=algolia)
