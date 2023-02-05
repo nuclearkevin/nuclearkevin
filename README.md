@@ -1,26 +1,11 @@
 <h1 align="center">Howdy! I'm Kevin</h1>
 
 ### About me
-- MASc student at the [Ontario Tech University](https://ontariotechu.ca/) (formerly UOIT). My academic and research interests are deterministic radiation transport, reactor physics and methods development in nuclear engineering.
-- I bounce between various projects, including a graphics engine written in OpenGL (Strontium) and my masters research (GNAT).
-- I'm currently learning graphics programming (Vulkan) and finite element methods for radiation transport.
+- I am a Masters of Applied Science (MASc) student at the [Ontario Tech University](https://ontariotechu.ca/) (formerly UOIT). My interests are deterministic radiation transport, nuclear reactor physics, radiation shielding, and the application of the finite element method to problems found in the domain of nuclear engineering.
+- I bounce between various projects, including finite element codes and computer graphics / data visualization.
+- I am currently learning graphics programming (Vulkan) and finite element methods for radiation transport.
  
 ### Projects
-- [Strontium](https://github.com/ksawatzky777/Strontium): My own OpenGL graphics/game engine. 
-- CARIBOU: A multiphysics transport code for the environmental assessment of nuclear accidents.
-- GNAT: A neutron transport and activation subapp for CARIBOU. Name is still a work in progress!
-
-<!--
-**ksawatzky777/ksawatzky777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- CARIBOU: A multiphysics transport code for the environmental assessment of nuclear accident. My work on CARIBOU include components of the dispersion models.
+  - GNAT: A coupled radiation transport and dispersion solver distributed with CARIBOU. The development of GNAT is one of the research objectives of my masters thesis.
+- [Strontium](https://github.com/ksawatzky777/Strontium): An OpenGL graphics/game engine. 
