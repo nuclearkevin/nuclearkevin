@@ -1,4 +1,4 @@
-<h1 align="center"> Howdy! I'm Kevin</h1>
+<h1 align="center"> <img src="https://github.com/nuclearkevin/nuclearkevin/blob/main/waving_hand.gif" width="40" height="40" /> Howdy! I'm Kevin</h1>
 
 ### About me
 - Ph.D student in NPRE at the [University of Illinois Urbana-Champaign](https://npre.illinois.edu/). 
