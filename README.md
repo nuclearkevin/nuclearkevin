@@ -3,4 +3,4 @@
 ### About me
 - Ph.D student in NPRE at [University of Illinois Urbana-Champaign](https://npre.illinois.edu/). 
 - Interested in discrete ordinates / Monte Carlo radiation transport methods, neutron / charged particle transport, multi-physics simulation of reactor systems, and advanced reactor modelling.
-- Previously worked on ex-core radiation transport, in-containment radioactive trace species transport, and the development of CARIBOU.
+- Previously worked on ex-core radiation transport, fluid activation/depletion, and the development of CARIBOU.
