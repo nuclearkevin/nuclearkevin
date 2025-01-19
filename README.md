@@ -3,4 +3,5 @@
 ### About me
 - Ph.D student in NPRE at [University of Illinois Urbana-Champaign](https://npre.illinois.edu/). 
 - Interested in discrete ordinates / Monte Carlo radiation transport methods, neutron / charged particle transport, multi-physics simulation of reactor systems, and advanced reactor modelling.
+- Currently working on h-p adaptivity for Monte Carlo radiation transport and developing neutronics capabilities in [Cardinal](https://github.com/neams-th-coe/cardinal).
 - Previously worked on ex-core radiation transport, fluid activation/depletion, and the development of CARIBOU.
