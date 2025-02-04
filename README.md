@@ -7,6 +7,5 @@
 - Previously worked on ex-core SN transport, fluid activation/depletion, and the development of CARIBOU.
 
 <p align="center">
-  <img align="center" src="https://github.com/nuclearkevin/nuclearkevin/blob/main/full_assembly_heat.gif" width="400" height="400" />
-  <img align="center" src="https://github.com/nuclearkevin/nuclearkevin/blob/main/full_assembly_od.gif" width="400" height="400" />
+  <img align="center" src="https://github.com/nuclearkevin/nuclearkevin/blob/main/combined_2.gif" width="1200" />
 </p>
